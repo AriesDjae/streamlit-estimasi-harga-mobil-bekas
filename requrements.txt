@@ -1,5 +1,0 @@
-numpy
-pandas
-scikit-learn
-streamlit, versi yang author gunakan == version 1.38.0
-matplotlib, versi yang author gunakan == Version: 3.9.2
